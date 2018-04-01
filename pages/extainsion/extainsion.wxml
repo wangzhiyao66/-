@@ -1,10 +1,10 @@
 <view class='box'>
   <view class='heeader'>
-    <image class='all' bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/%E6%8F%92%E7%94%BB1%402x.png'></image>
-    <image class='all' bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/chahua.png'></image>
-    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/dongxiao.png'></image>
-    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/ui.png'></image>
-    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/sheji.png'></image>
+    <image class='all' bindtap='gotofined1' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/%E6%8F%92%E7%94%BB1%402x.png'></image>
+    <image class='all' bindtap='gotofined2' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/chahua.png'></image>
+    <image class='all'bindtap='gotofined3' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/dongxiao.png'></image>
+    <image class='all'bindtap='gotofined4' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/ui.png'></image>
+    <image class='all'bindtap='gotofined5' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/sheji.png'></image>
   </view>
   <view class='content'>
     <text class='left'>享受的优惠</text>

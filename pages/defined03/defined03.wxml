@@ -5,7 +5,7 @@
   <view class='content'>
     <text class='left'>课程大纲</text>
     <view class='content-text'>
-      <text class='content_title'>1.初识AE功能和工作流程</text> 
+      <text class='content_title'>1.初识AE功能介绍和工作流程</text> 
     </view>
     <view class='content-text'>
       <text class='content_title'>2.理解AE图层及蒙版含义</text>
@@ -29,41 +29,41 @@
       <text class='content_title'>互动交流群</text> 
     </view>
   </view>
-  <view class='content'  style='height:310px;background:#fff;border-top:5px solid #ddd'>
+  <view class='content'  style='height:345px;background:#fff;border-top:5px solid #ddd'>
     <text class='left'>报名方式</text>
     <view class='content-text'>
-      <text class='content_title' style='color:rgba(0,0,0,0.6);'>1.添加课程助手微信并付款</text> 
+      <text class='content_title' style='color:#B1B5C6;'>1.添加课程助手微信并付款</text> 
     </view>
     <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>2.加入上课群，15-20人开课</text>
+      <text class='content_title'style='color:#B1B5C6;'>2.加入上课群，15-20人开课</text>
     </view>
     <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>3.讲课2小时，答疑2小时</text> 
+      <text class='content_title'style='color:#B1B5C6;'>3.讲课2小时，答疑2小时</text> 
     </view>
     <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>4.课后提供课件和语音即时回顾</text> 
+      <text class='content_title'style='color:#B1B5C6;'>4.课后提供课件和语音即时回顾</text> 
     </view>
     <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>5.完成全部作业，得到点评</text>
+      <text class='content_title'style='color:#B1B5C6;'>5.完成全部作业，得到点评</text>
     </view>
     <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>6.终身课程问题答疑</text> 
+      <text class='content_title'style='color:#B1B5C6;'>6.终身课程问题答疑</text> 
     </view>
      <view class='content-text'>
-      <text class='content_title'style='color:rgba(0,0,0,0.6);'>7.课程适合初级或第一次接触AE的小伙伴</text> 
+      <text class='content_title'style='color:#B1B5C6;'>7.课程适合初级或第一次接触AE的小伙伴</text> 
     </view>
   </view>
 
-  <view class='content' style='height:160px;border-top:5px solid #ddd'>
+  <view class='content' style='height:210px;border-top:5px solid #ddd'>
     <image class='title-images'  src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E7%9F%B3%E6%A6%B4%E5%A4%B4%E5%83%8F.png'></image>
-    <view class='owenr-text' style='text-align:center;'>
-        <text class='owenr_title'  style='text-align:center;'>主讲：石榴</text> 日企高级动效设计师  6年动画设计经验
+      <view class='owenr-text' style='text-align:center;'>
+        <text class='owenr_title'  style='text-align:center;padding-bottom:8px;'>主讲：石榴</text> 日企高级动效设计师  6年动画设计经验
       </view>
   </view>
-  <view class='content' style='height:520px;background:#fff;border-top:5px solid #ddd'>
+  <view class='content' style='height:560px;background:#fff;border-top:5px solid #ddd'>
     <text class='left'>优秀作品</text>
-    <image src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%811.png'></image>
-    <image src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%812%20.png'></image>
+    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%811.png'></image>
+    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%812%20.png'></image>
   </view>
 
 
@@ -86,7 +86,7 @@
   </view>
   <view class='owenr'>
       <view class='owenr-text' style='text-align:center;'>
-        <text class='owenr_title'  style='text-align:center;'>联系方式</text> 我们将在这里期待着您的加入
+        <text class='owenr_title'  style='text-align:center;padding-bottom:5px;'>联系方式</text> 我们将在这里期待着您的加入
       </view>
       <image style='width:150px;height:150px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/WechatIMG1.png'></image>
       <view style='font-size:10px;color:rgba(0,0,0,0.4)'>报名请咨询课程小助手</view>

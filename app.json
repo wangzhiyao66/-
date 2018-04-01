@@ -1,9 +1,12 @@
 {
   "pages":[
     "pages/extainsion/extainsion",
-    "pages/defined01/defined",
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/defined01/defined01",
+    "pages/defined02/defined02",
+    "pages/defined03/defined03",
+    "pages/defined04/defined04",
+    "pages/defined05/defined05"
   ],
   "window":{
     "backgroundTextStyle":"light",

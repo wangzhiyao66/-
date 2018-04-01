@@ -1,0 +1,70 @@
+<view class='box'>
+  <view class='heeader'>
+    <image class='all' bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/%E6%8F%92%E7%94%BB1%402x.png'></image>
+    <image class='all' bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/chahua.png'></image>
+    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/dongxiao.png'></image>
+    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/ui.png'></image>
+    <image class='all'bindtap='gotofined' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/sheji.png'></image>
+  </view>
+  <view class='content'>
+    <text class='left'>享受的优惠</text>
+    <view class='content-text'>
+      <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
+    </view>
+  </view>
+  <view class='content-images'>
+    <image class='images-left' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/1%402x.png'></image>
+    <image class='images-right' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/11%402x.png'></image>
+  </view>
+  <view class='viedoshow'>
+    <text class='left'>试听课程</text>
+    <view class='video-box'>
+      <view class='list-box'>
+        <image class='list' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/chahua.png'></image>
+        <image class='list' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/dongxiao.png'></image>
+        <image class='list' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/shiting.png'></image>
+        <image class='list' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/pingmian.png'></image>
+        <image class='list' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/UI.png'></image>
+      </view>
+    </view>
+    <view class='video-text'>
+      <text class='video_title'>插画设计小班（初级）</text> 一线大厂设计总监授课/进阶提升
+    </view>
+  </view>
+  <view class='studyPeople'>
+  <text class='left'>学员反馈</text>
+    <view class='first-text'>
+          <view class='first-content'>
+          自从接触上小课堂，然给有了从0 到 1的学习和改变，懂得了许多设计原则，以及怎么把也页面做的更加规范。学习的过程是有情绪波动的，但是一定要耐心的去完成每一件做份和细节。最重要的是两位NICE的老是教导，我才会在这么短的时间内学出来工作了，在这里给个大大的赞，希望来这里的每一位同学都和我一样，坚持下来这样我们就可以成为全方面你的设计师。
+          <text style='display:block;color:rgba(0,0,0, 0.3);'>李静一太原师范学院16届环境艺术设计专业</text>
+          </view>
+          <image class='first-img' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/people/Group%204%20Copy%206%402x.png'></image>
+    </view>
+    <view class='first-text'>
+          <view class='first-content'>
+          自从接触上小课堂，然给有了从0 到 1的学习和改变，懂得了许多设计原则，以及怎么把也页面做的更加规范。学习的过程是有情绪波动的，但是一定要耐心的去完成每一件做份和细节。最重要的是两位NICE的老是教导，我才会在这么短的时间内学出来工作了，在这里给个大大的赞，希望来这里的每一位同学都和我一样，坚持下来这样我们就可以成为全方面你的设计师。
+          <text style='display:block;color:rgba(0,0,0, 0.3);'>李静一太原师范学院16届环境艺术设计专业</text>
+          </view>
+          <image class='first-img' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/people/Group%204%20Copy%207%402x.png'></image>
+    </view>
+  </view>
+  <view class='owenr'>
+      <view class='owenr-text' style='text-align:center;'>
+        <text class='owenr_title'  style='text-align:center;'>联系方式</text> 我们将在这里期待着您的加入
+      </view>
+      <image style='width:150px;height:150px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/WechatIMG1.png'></image>
+      <view style='font-size:10px;color:rgba(0,0,0,0.4)'>报名请咨询课程小助手</view>
+  </view>
+</view>

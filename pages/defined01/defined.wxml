@@ -1,0 +1,95 @@
+<view class='div_bos'>
+   <view class='heeader'>
+    <image class='all'src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E5%8A%A8%E6%95%88%E8%AE%BE%E8%AE%A1banner.png'></image>
+  </view>
+  <view class='content'>
+    <text class='left'>课程大纲</text>
+    <view class='content-text'>
+      <text class='content_title'>1.初识AE功能和工作流程</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>2.理解AE图层及蒙版含义</text>
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>3.AE形状图层的讲解和实用案例</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>4.讲解变速动画及案例</text> 
+    </view>
+  </view>
+  <view class='content' style='height:160px;background:#fff;border-top:5px solid #ddd'>
+    <text class='left'>授课方式</text>
+    <view class='content-text'>
+      <text class='content_title'>QQ群直播录播分享</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>根据课表制定晚上8：30 - 10：00</text>
+    </view>
+    <view class='content-text'>
+      <text class='content_title'>互动交流群</text> 
+    </view>
+  </view>
+  <view class='content'  style='height:310px;background:#fff;border-top:5px solid #ddd'>
+    <text class='left'>报名方式</text>
+    <view class='content-text'>
+      <text class='content_title' style='color:rgba(0,0,0,0.6);'>1.添加课程助手微信并付款</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>2.加入上课群，15-20人开课</text>
+    </view>
+    <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>3.讲课2小时，答疑2小时</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>4.课后提供课件和语音即时回顾</text> 
+    </view>
+    <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>5.完成全部作业，得到点评</text>
+    </view>
+    <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>6.终身课程问题答疑</text> 
+    </view>
+     <view class='content-text'>
+      <text class='content_title'style='color:rgba(0,0,0,0.6);'>7.课程适合初级或第一次接触AE的小伙伴</text> 
+    </view>
+  </view>
+
+  <view class='content' style='height:160px;border-top:5px solid #ddd'>
+    <image class='title-images'  src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E7%9F%B3%E6%A6%B4%E5%A4%B4%E5%83%8F.png'></image>
+    <view class='owenr-text' style='text-align:center;'>
+        <text class='owenr_title'  style='text-align:center;'>主讲：石榴</text> 日企高级动效设计师  6年动画设计经验
+      </view>
+  </view>
+  <view class='content' style='height:520px;background:#fff;border-top:5px solid #ddd'>
+    <text class='left'>优秀作品</text>
+    <image src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%811.png'></image>
+    <image src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%812%20.png'></image>
+  </view>
+
+
+  <view class='studyPeople'>
+  <text class='left'>学员反馈</text>
+    <view class='first-text'>
+          <view class='first-content'>
+          自从接触上小课堂，然给有了从0 到 1的学习和改变，懂得了许多设计原则，以及怎么把也页面做的更加规范。学习的过程是有情绪波动的，但是一定要耐心的去完成每一件做份和细节。最重要的是两位NICE的老是教导，我才会在这么短的时间内学出来工作了，在这里给个大大的赞，希望来这里的每一位同学都和我一样，坚持下来这样我们就可以成为全方面你的设计师。
+          <text style='display:block;color:rgba(0,0,0, 0.3);'>李静一太原师范学院16届环境艺术设计专业</text>
+          </view>
+          <image class='first-img' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/people/Group%204%20Copy%206%402x.png'></image>
+    </view>
+    <view class='first-text'>
+          <view class='first-content'>
+          自从接触上小课堂，然给有了从0 到 1的学习和改变，懂得了许多设计原则，以及怎么把也页面做的更加规范。学习的过程是有情绪波动的，但是一定要耐心的去完成每一件做份和细节。最重要的是两位NICE的老是教导，我才会在这么短的时间内学出来工作了，在这里给个大大的赞，希望来这里的每一位同学都和我一样，坚持下来这样我们就可以成为全方面你的设计师。
+          <text style='display:block;color:rgba(0,0,0, 0.3);'>李静一太原师范学院16届环境艺术设计专业</text>
+          </view>
+          <image class='first-img' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/people/Group%204%20Copy%207%402x.png'></image>
+    </view>
+  </view>
+  <view class='owenr'>
+      <view class='owenr-text' style='text-align:center;'>
+        <text class='owenr_title'  style='text-align:center;'>联系方式</text> 我们将在这里期待着您的加入
+      </view>
+      <image style='width:150px;height:150px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/WechatIMG1.png'></image>
+      <view style='font-size:10px;color:rgba(0,0,0,0.4)'>报名请咨询课程小助手</view>
+  </view>
+
+</view>

@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/extainsion/extainsion",
+    "pages/defined01/defined",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "布丁课堂",
+    "navigationBarTextStyle":"black"
+  }
+}

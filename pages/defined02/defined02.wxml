@@ -17,7 +17,7 @@
       <text class='content_title'>4.讲解变速动画及案例</text> 
     </view>
   </view>
-  <view class='content' style='height:160px;background:#fff;border-top:5px solid #ddd'>
+  <view class='content' style='height:170px;background:#fff;border-top:5px solid #ddd'>
     <text class='left'>授课方式</text>
     <view class='content-text'>
       <text class='content_title'>QQ群直播录播分享</text> 

@@ -6,9 +6,9 @@
     <view class='introduce'>
          <image class='introduce-images'  src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/two_wangzhen/%E5%A4%B4%E5%83%8F.png'></image>
       <view class='introduce-text' style='text-align:center;'>
-        <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：王振</text> 日企高级动效设计师  6年动画设计经验
+        <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：王振</text> 一线资深插画师  7年插画设计经验
       </view>
-      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #ddd;'>
+      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #F1F2F7;'>
         <text style='color:#FB8940;font-size:25px;padding-right:10px;'>¥1190</text> 
         <text style='text-decoration:line-through;'>¥1990</text>
       </view>
@@ -21,7 +21,7 @@
       <view class='introduce-text' style='text-align:center;'>
         <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：杜想走</text> 一线资深插画师  7年插画设计经验
       </view>
-      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #ddd;'>
+      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #F1F2F7;'>
         <text style='color:#FB8940;font-size:25px;padding-right:10px;'>¥1190</text> 
         <text style='text-decoration:line-through;'>¥1990</text>
       </view>
@@ -34,7 +34,7 @@
       <view class='introduce-text' style='text-align:center;'>
         <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：石榴</text> 日企高级动效设计师  6年动画设计经验
       </view>
-      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #ddd;'>
+      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #F1F2F7;'>
         <text style='color:#FB8940;font-size:25px;padding-right:10px;'>¥990</text> 
         <text style='text-decoration:line-through;'>¥1290</text>
       </view>
@@ -47,7 +47,7 @@
       <view class='introduce-text' style='text-align:center;'>
         <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：麦兜姐姐</text> 一线资深插画师  7年插画设计经验
       </view>
-      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #ddd;'>
+      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #F1F2F7;'>
         <text style='color:#FB8940;font-size:25px;padding-right:10px;'>¥1190</text> 
         <text style='text-decoration:line-through;'>¥1290</text>
       </view>
@@ -60,7 +60,7 @@
       <view class='introduce-text' style='text-align:center;'>
         <text class='introduce_title'  style='text-align:center;padding-bottom:8px;'>主讲：Mr.Ann</text> 一线资深插画师  7年插画设计经验
       </view>
-      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #ddd;'>
+      <view class='introduce-text' style='height:50px;text-align:center;border-top:1px solid #F1F2F7;'>
         <text style='color:#FB8940;font-size:25px;padding-right:10px;'>¥990</text> 
         <text style='text-decoration:line-through;'>¥1290</text>
       </view>

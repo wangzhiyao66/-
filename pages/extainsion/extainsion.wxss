@@ -13,7 +13,7 @@
 
 .all {
   width: 100%;
-  height: 300px;
+  height: 250px;
   margin-bottom: 10px;
 
 }
@@ -36,7 +36,7 @@
 
 .introduce-text {
   display: inline-block;
-  width: 85%;
+  width: 94%;
   height: 65px;
   /* margin: 7px 0px 0px 20px; */
   text-align: left;
@@ -60,11 +60,12 @@
   height: 55px;
   line-height: 55px;
   background: #fff;
-  border: 1px solid blue;
+  border: 1px solid #2C63F5;
   margin: 0 auto;
   border-radius: 0px;
   font-size: 14px;
   margin-top: 10px;
+  color: #2C63F5;
 }
 .content {
   width: 100%;

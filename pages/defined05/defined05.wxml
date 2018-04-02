@@ -62,8 +62,8 @@
   </view>
   <view class='content' style='height:520px;background:#fff;border-top:5px solid #ddd'>
     <text class='left'>优秀作品</text>
-    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/two_pingmian/%E5%B9%B3%E9%9D%A2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81.png'></image>
-    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/two_pingmian/%E5%B9%B3%E9%9D%A2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%812.png'></image>
+    <image style='width:85%;height:210px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/two_pingmian/%E5%B9%B3%E9%9D%A2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%81.png'></image>
+    <image style='width:85%;height:210px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/two_pingmian/%E5%B9%B3%E9%9D%A2%E4%BC%98%E7%A7%80%E4%BD%9C%E5%93%812.png'></image>
   </view>
 
 

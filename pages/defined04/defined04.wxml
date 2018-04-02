@@ -60,10 +60,10 @@
         <text class='owenr_title'  style='text-align:center;padding-bottom:8px;'>主讲：麦兜姐姐</text> 日企高级动效设计师  6年动画设计经验
       </view>
   </view>
-  <view class='content' style='height:560px;background:#fff;border-top:5px solid #ddd'>
+  <view class='content' style='height:520px;background:#fff;border-top:5px solid #ddd'>
     <text class='left'>优秀作品</text>
-    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%811.png'></image>
-    <image style='width:85%;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%812%20.png'></image>
+    <image style='width:85%;height:210px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%811.png'></image>
+    <image style='width:85%;height:210px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/%E4%BD%9C%E5%93%812%20.png'></image>
   </view>
 
 

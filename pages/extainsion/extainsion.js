@@ -90,5 +90,18 @@ Page({
         console.log('data', res)
       }
     })
+  },
+  getInfo:function(){
+    
+    wx.saveImageToPhotosAlbum({
+      success(res) {
+      }
+    })
+    
+    // wx.scanCode({
+    //   success: (res) => {
+    //     console.log(res)
+    //   }
+    // })
   }
 })

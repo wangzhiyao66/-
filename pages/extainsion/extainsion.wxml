@@ -68,7 +68,7 @@
     </view>
 
   </view>
-  <view class='content'>
+  <view class='content'  style='border-top: 10px solid #f1f2f7;'>
     <text class='left'>享受的优惠</text>
     <view class='content-text'>
       <text class='content_title'>BTA资深讲师授课</text> 所有导师均来自互联网以及产品设计专家
@@ -90,7 +90,7 @@
     <image class='images-left' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/1.png'></image>
     <image class='images-right' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/img/2.png'></image>
   </view>
-  <view class='viedoshow'>
+  <view class='viedoshow' style='border-top: 10px solid #f1f2f7;'>
     <text class='left'>试听课程</text>
     <view class='video-box'>
       <view class='list-box'>
@@ -126,7 +126,7 @@
       <view class='owenr-text' style='text-align:center;'>
         <text class='owenr_title'  style='text-align:center;'>联系方式</text> 我们将在这里期待着您的加入
       </view>
-      <image style='width:150px;height:150px;' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/WechatIMG1.png'></image>
+      <image style='width:150px;height:150px;' bindtap='getInfo' src='https://yanghongapp.oss-cn-qingdao.aliyuncs.com/UI/two/WechatIMG1.png'></image>
       <view style='font-size:10px;color:rgba(0,0,0,0.4)'>报名请咨询课程小助手</view>
   </view>
 </view>
